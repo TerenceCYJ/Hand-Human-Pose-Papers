@@ -113,6 +113,10 @@ _Endri Dibra, Silvan Melchior, Ali Balkis, Thomas Wolf, Cengiz Oztireli, Markus 
 ##### 3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images.[\[PDF\]](http://eeeweba.ntu.edu.sg/computervision/Research%20Papers/2017/3D%20Convolutional%20Neural%20Networks%20for%20Efficient%20and%20Robust%20Hand%20Pose%20Estimation%20from%20Single%20Depth%20Images.pdf) [\[Project Page\]](https://sites.google.com/site/geliuhaontu/home/cvpr2017) [\[Note\]](https://github.com/TerenceCYJ/3D_Pose_Papers/blob/master/Notes/3D%20Convolutional%20Neural%20Networks%20for%20Efficient%20and%20Robust%20Hand%20Pose%20Estimation%20from%20Single%20Depth%20Images.md)
 *Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann*
 
+### 2017 Others
+
+##### \[2017 ICIP\] Region ensemble network: Improving convolutional network for hand pose estimation. [\[PDF\]](http://pdfs.semanticscholar.org/f1db/9c9385debee8f3533a87e32fd7496978b40c.pdf)
+*Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, Huazhong Yang*
 
 ### Before 2016
 ##### Spatial Attention Deep Net with Partial PSO for Hierarchical Hybrid Hand Pose Estimation. [\[PDF\]](https://labicvl.github.io/docs/pubs/Qi_Shanxin_ECCV_2016.pdf) [\[Project Page\]](https://sites.google.com/site/qiyeincv/home/eccv2016)
