@@ -22,7 +22,7 @@ See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-est
 ##### [\[arXiv:1704.02224\]](https://arxiv.org/abs/1704.02224) Hand3D: Hand Pose Estimation using 3D Neural Network. [\[PDF\]](https://arxiv.org/pdf/1704.02224.pdf) [\[Note\]](https://github.com/TerenceCYJ/3D_Pose_Papers/blob/master/Notes/Hand3D%20-%20Hand%20Pose%20Estimation%20using%203D%20Neural%20Network.md)
 _Xiaoming Deng, Shuo Yang, Yinda Zhang, Ping Tan, Liang Chang, Hongan Wang_
 
-##### [\[arXiv:1708.03416\]](https://arxiv.org/abs/1708.03416) Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)
+##### [\[arXiv:1708.03416\]](https://arxiv.org/abs/1708.03416) Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf) [\[Note\]](https://github.com/TerenceCYJ/3D-Hand-Pose-Estimation-Papers/blob/master/Notes/Pose%20Guided%20Structured%20Region%20Ensemble%20Network%20for%20Cascaded%20Hand%20Pose.md)
 _Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
 
 ##### [\[arXiv:1707.02237\]](https://arxiv.org/abs/1707.02237) The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1707.02237.pdf)
@@ -31,7 +31,7 @@ _Shanxin Yuan, Qi Ye, Guillermo Garcia-Hernando, Tae-Kyun Kim_
 
 ## Journal Papers
 
-##### \[2018 IEEE Access\] SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds. [\[PDF\]](https://ieeexplore.ieee.org/document/8425735/)
+##### \[2018 IEEE Access\] SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds. [\[PDF\]](https://ieeexplore.ieee.org/document/8425735/) [\[Note\]](https://github.com/TerenceCYJ/3D-Hand-Pose-Estimation-Papers/blob/master/Notes/SHPR-Net%20-Deep%20Semantic%20Hand%20Pose%20Regression.md)
 _Xinghao Chen, Guijin Wang, Cairong Zhang, Tae-Kyun Kim, Xiangyang Ji_
 
 
@@ -53,7 +53,7 @@ _Liuhao Ge, Zhou Ren, Junsong Yuan_
 _Qi Ye, Tae-Kyun Kim_
 
 
-##### Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sijia_Cai_Weakly-supervised_Video_Summarization_ECCV_2018_paper.pdf) [\[Note\]](https://github.com/TerenceCYJ/3D_Pose_Papers/blob/master/Notes/Weakly-supervised%203D%20Hand%20Pose%20Estimation%20from%20Monocular%20RGB%20Images%3F.md) *(Oral)*
+##### Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sijia_Cai_Weakly-supervised_Video_Summarization_ECCV_2018_paper.pdf) [\[Note\]](https://github.com/TerenceCYJ/3D-Hand-Pose-Estimation-Papers/blob/master/Notes/Weakly-supervised%203D%20Hand%20Pose%20Estimation%20from%20Monocular%20RGB%20Images.md) *(Oral)*
 _Yujun Cai, Liuhao Ge, Jianfei Cai, Junsong Yuan_
 
 ##### HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaokun_Wu_HandMap_Robust_Hand_ECCV_2018_paper.pdf)
