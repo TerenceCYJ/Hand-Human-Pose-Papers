@@ -89,7 +89,7 @@ _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 ##### Cross-modal Deep Variational Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1803.11404) [\[Project Page\]](https://ait.ethz.ch/projects/2018/vae_hands/) [\[Code\]](https://github.com/spurra/vae-hands-3d) *(Spotlight)*
 _Adrian Spurr, Jie Song, Seonwook Park, Otmar Hilliges_
 
-##### Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images. [\[PDF\]](https://arxiv.org/pdf/1712.03904.pdf)  [\[Project Page\]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/feature-mapping/)
+##### Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images. [\[PDF\]](https://arxiv.org/pdf/1712.03904.pdf)  [\[Project Page\]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/feature-mapping/) [\[Note\]](https://github.com/TerenceCYJ/3D-Hand-Pose-Estimation-Papers/blob/master/Notes/Feature%20Mapping%20for%20Learning%20Fast%20and%20Accurate%203D%20Pose%20Inference.md)
 _Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
 ##### GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB. [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf) [\[Supp\]](http://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018_Supp.pdf) [\[Project Page\]](http://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/) *(Spotlight)*
