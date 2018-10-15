@@ -22,9 +22,6 @@ See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-est
 ##### [\[arXiv:1704.02224\]](https://arxiv.org/abs/1704.02224) Hand3D: Hand Pose Estimation using 3D Neural Network. [\[PDF\]](https://arxiv.org/pdf/1704.02224.pdf) [\[Note\]](https://github.com/TerenceCYJ/3D_Pose_Papers/blob/master/Notes/Hand3D%20-%20Hand%20Pose%20Estimation%20using%203D%20Neural%20Network.md)
 _Xiaoming Deng, Shuo Yang, Yinda Zhang, Ping Tan, Liang Chang, Hongan Wang_
 
-##### [\[arXiv:1708.03416\]](https://arxiv.org/abs/1708.03416) Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf) [\[Note\]](https://github.com/TerenceCYJ/3D-Hand-Pose-Estimation-Papers/blob/master/Notes/Pose%20Guided%20Structured%20Region%20Ensemble%20Network%20for%20Cascaded%20Hand%20Pose.md)
-_Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
-
 ##### [\[arXiv:1707.02237\]](https://arxiv.org/abs/1707.02237) The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1707.02237.pdf)
 _Shanxin Yuan, Qi Ye, Guillermo Garcia-Hernando, Tae-Kyun Kim_
 
@@ -35,7 +32,7 @@ _Shanxin Yuan, Qi Ye, Guillermo Garcia-Hernando, Tae-Kyun Kim_
 _Xinghao Chen, Guijin Wang, Cairong Zhang, Tae-Kyun Kim, Xiangyang Ji_
 
 
-##### \[2018 Neurocomputing\]  Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)  [\[Project Page\]](https://sites.google.com/view/xinghaochen/projects/Pose-REN)  [\[Code\]](https://github.com/xinghaochen/Pose-REN)
+##### \[2018 Neurocomputing\]  Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)  [\[Project Page\]](https://sites.google.com/view/xinghaochen/projects/Pose-REN)  [\[Code\]](https://github.com/xinghaochen/Pose-REN) [\[Note\]](https://github.com/TerenceCYJ/3D-Hand-Pose-Estimation-Papers/blob/master/Notes/Pose%20Guided%20Structured%20Region%20Ensemble%20Network%20for%20Cascaded%20Hand%20Pose.md)
 _Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
 
 ##### \[2018 TPAMI\] Real-time 3D Hand Pose Estimation with 3D Convolutional Neural Networks. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8338122) [\[Note\]](https://github.com/TerenceCYJ/3D_Pose_Papers/blob/master/Notes/Real-time%203D%20Hand%20Pose%20Estimation%20with%203D%20Convolutional%20Neural%20Networks.md)
@@ -83,7 +80,7 @@ _Georg Poier, David Schinagl, Horst Bischof_
 ##### Hand PointNet: 3D Hand Pose Estimation using Point Sets. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDoxMGU4YzMyMzNhMzM2NDUz)  [\[Project Page\]](https://sites.google.com/site/geliuhaontu/home/cvpr2018) [\[Code\]](https://sites.google.com/site/geliuhaontu/HandPointNet.zip?attredirects=0&d=1) [\[Note\]](https://github.com/TerenceCYJ/3D_Pose_Papers/blob/master/Notes/Hand%20PointNet%20-%203D%20Hand%20Pose%20Estimation%20using%20Point%20Sets.md) *(Spotlight)*
 _Liuhao Ge, Yujun Cai, Junwu Weng, Junsong Yuan_
 
-##### Dense 3D Regression for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1711.08996.pdf)  [\[Code\]](https://github.com/melonwan/denseReg) 
+##### Dense 3D Regression for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1711.08996.pdf)  [\[Code\]](https://github.com/melonwan/denseReg) [\[Note\]](https://github.com/TerenceCYJ/3D-Hand-Pose-Estimation-Papers/blob/master/Notes/Dense%203D%20Regression%20for%20Hand%20Pose%20Estimation.md)
 _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 
 ##### Cross-modal Deep Variational Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1803.11404) [\[Project Page\]](https://ait.ethz.ch/projects/2018/vae_hands/) [\[Code\]](https://github.com/spurra/vae-hands-3d) *(Spotlight)*
