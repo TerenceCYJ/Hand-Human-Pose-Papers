@@ -18,6 +18,20 @@ From work [``Awesome Work on Hand Pose Estimation``](https://github.com/xinghaoc
 See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
+##### [\[arXiv:1812.11328\]](https://arxiv.org/abs/1812.11328) Skeleton Transformer Networks: 3D Human Pose and Skinned Mesh from Single RGB Image. [\[PDF\]](https://arxiv.org/pdf/1812.11328.pdf)
+_Yusuke Yoshiyasu, Ryusuke Sagawa, Ko Ayusawa, Akihiko Murai_
+
+##### [\[arXiv:1812.10766\]](https://arxiv.org/abs/1812.10766) SMPLR: Deep SMPL reverse for 3D human pose and shape recovery. [\[PDF\]](https://arxiv.org/pdf/1812.10766.pdf)
+_Meysam Madadi, Hugo Bertiche and Sergio Escalera_
+
+##### [\[arXiv:1812.10320\]](https://arxiv.org/abs/1812.10320) Structure-Aware 3D Hourglass Network for Hand Pose Estimation from Single Depth Image. [\[PDF\]](https://arxiv.org/pdf/1812.10320.pdf)
+_Fuyang Huang, Ailing Zeng, Minhao Liu, Jing Qin, Qiang Xu_
+
+##### [\[arXiv:1812.06145\]](https://arxiv.org/abs/1812.06145) Improving the Performance of Unimodal Dynamic Hand-Gesture Recognition with Multimodal Training. [\[PDF\]](https://arxiv.org/pdf/1812.06145.pdf)
+_Mahdi Abavisani, Hamid Reza Vaezi Joze, Vishal M. Patel_
+
+##### [\[arXiv:1812.03595\]](https://arxiv.org/abs/1812.03595) PoseFix: Model-agnostic General Human Pose Refinement Network. [\[PDF\]](https://arxiv.org/pdf/1812.03595.pdf)
+_Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee_
 
 ##### [\[arXiv:1704.02224\]](https://arxiv.org/abs/1704.02224) Hand3D: Hand Pose Estimation using 3D Neural Network. [\[PDF\]](https://arxiv.org/pdf/1704.02224.pdf) [\[Note\]](https://github.com/TerenceCYJ/3D_Pose_Papers/blob/master/Notes/Hand3D%20-%20Hand%20Pose%20Estimation%20using%203D%20Neural%20Network.md)
 _Xiaoming Deng, Shuo Yang, Yinda Zhang, Ping Tan, Liang Chang, Hongan Wang_
