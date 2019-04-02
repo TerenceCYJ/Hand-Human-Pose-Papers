@@ -5,6 +5,7 @@
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
  - [Conference Papers](#conference-papers)
+   - 2019: [CVPR](#2019-cvpr)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
    - [Before 2016](#before-2016)
@@ -54,9 +55,19 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
 
 ## Conference Papers
+### 2019 CVPR
+##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[Project Site\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDo3ZjE0ZjY3OWUzYjJkYjA2) *(Oral)*
+_Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan_
+##### 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](https://arxiv.org/pdf/1902.03451.pdf) [\[Code\]](https://github.com/boukhayma/3dhand) *(Oral)*
+_Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr_
+##### Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf) [\[Related Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) *(Oral)*
+_Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
+##### Learning joint reconstruction of hands and manipulated objects. [\[Project Site\]](https://ps.is.tuebingen.mpg.de/publications/hasson-cvpr-2019) [\[PDF\]] [\[Code\]](https://github.com/hassony2/manopth)
+_Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid_
+##### Pushing the envelope for RGB-based dense 3D hand pose estimation via neural rendering. [\[PDF\]]
+_Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
 ### 2018 ECCV
-
 ##### Point-to-Point Regression PointNet for 3D Hand Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liuhao_Ge_Point-to-Point_Regression_PointNet_ECCV_2018_paper.pdf) [\[Note\]](https://github.com/TerenceCYJ/3D_Pose_Papers/blob/master/Notes/Point-to-Point%20Regression%20PointNet%20for%203D%20Hand%20Pose%20Estimation.md)
 _Liuhao Ge, Zhou Ren, Junsong Yuan_
 
