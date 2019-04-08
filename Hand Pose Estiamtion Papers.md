@@ -62,7 +62,7 @@ _Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junson
 _Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr_
 ##### Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf) [\[Related Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) *(Oral)*
 _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
-##### Learning joint reconstruction of hands and manipulated objects. [\[Project Site\]](https://ps.is.tuebingen.mpg.de/publications/hasson-cvpr-2019) [\[PDF\]] [\[Code\]](https://github.com/hassony2/manopth)
+##### Learning joint reconstruction of hands and manipulated objects. [\[Project Site\]](https://ps.is.tuebingen.mpg.de/publications/hasson-cvpr-2019) [\[PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/499/obman.pdf) [\[Supplemental Material PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/500/obman-supp.pdf)  [\[Code\]](https://github.com/hassony2/manopth)
 _Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid_
 ##### Pushing the envelope for RGB-based dense 3D hand pose estimation via neural rendering. [\[PDF\]]
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
