@@ -66,6 +66,8 @@ _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 _Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid_
 ##### Pushing the envelope for RGB-based dense 3D hand pose estimation via neural rendering. [\[PDF\]]
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
+##### Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [\[Project Site\]](https://ps.is.tuebingen.mpg.de/publications/smplex-2019) [\[PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf) [\[Supplemental Material PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/498/SMPL-X-supp.pdf)
+_Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black_
 
 ### 2018 ECCV
 ##### Point-to-Point Regression PointNet for 3D Hand Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liuhao_Ge_Point-to-Point_Regression_PointNet_ECCV_2018_paper.pdf) [\[Note\]](https://github.com/TerenceCYJ/3D_Pose_Papers/blob/master/Notes/Point-to-Point%20Regression%20PointNet%20for%203D%20Hand%20Pose%20Estimation.md)
