@@ -19,6 +19,13 @@ From work [``Awesome Work on Hand Pose Estimation``](https://github.com/xinghaoc
 See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
+
+
+##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf) 
+_Xiong Zhang, Qiang Li, Wenbo Zhang, Wen Zheng_
+##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) Skeleton Transformer Networks: 3D Human Pose and Skinned Mesh from Single RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf) [\[Code\]](https://github.com/MandyMo/HAMR)
+_Xiong Zhang, Qiang Li, Wenbo Zhang, Wen Zheng_
+
 ##### [\[arXiv:1812.11328\]](https://arxiv.org/abs/1812.11328) Skeleton Transformer Networks: 3D Human Pose and Skinned Mesh from Single RGB Image. [\[PDF\]](https://arxiv.org/pdf/1812.11328.pdf)
 _Yusuke Yoshiyasu, Ryusuke Sagawa, Ko Ayusawa, Akihiko Murai_
 
@@ -43,19 +50,29 @@ _Shanxin Yuan, Qi Ye, Guillermo Garcia-Hernando, Tae-Kyun Kim_
 
 ## Journal Papers
 
-##### \[2018 IEEE Access\] SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds. [\[PDF\]](https://ieeexplore.ieee.org/document/8425735/) [\[Note\]](https://github.com/TerenceCYJ/3D-Hand-Pose-Estimation-Papers/blob/master/Notes/SHPR-Net%20-Deep%20Semantic%20Hand%20Pose%20Regression.md)
-_Xinghao Chen, Guijin Wang, Cairong Zhang, Tae-Kyun Kim, Xiangyang Ji_
-
-
-##### \[2018 Neurocomputing\]  Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)  [\[Project Page\]](https://sites.google.com/view/xinghaochen/projects/Pose-REN)  [\[Code\]](https://github.com/xinghaochen/Pose-REN) [\[Note\]](https://github.com/TerenceCYJ/3D-Hand-Pose-Estimation-Papers/blob/master/Notes/Pose%20Guided%20Structured%20Region%20Ensemble%20Network%20for%20Cascaded%20Hand%20Pose.md)
-_Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
-
 ##### \[2018 TPAMI\] Real-time 3D Hand Pose Estimation with 3D Convolutional Neural Networks. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8338122) [\[Note\]](https://github.com/TerenceCYJ/3D_Pose_Papers/blob/master/Notes/Real-time%203D%20Hand%20Pose%20Estimation%20with%203D%20Convolutional%20Neural%20Networks.md)
 _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
 
+##### \[2018 IEEE Access\] SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds. [\[PDF\]](https://ieeexplore.ieee.org/document/8425735/) [\[Note\]](https://github.com/TerenceCYJ/3D-Hand-Pose-Estimation-Papers/blob/master/Notes/SHPR-Net%20-Deep%20Semantic%20Hand%20Pose%20Regression.md)
+_Xinghao Chen, Guijin Wang, Cairong Zhang, Tae-Kyun Kim, Xiangyang Ji_
+
+##### \[2018 Neurocomputing\]  Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)  [\[Project Page\]](https://sites.google.com/view/xinghaochen/projects/Pose-REN)  [\[Code\]](https://github.com/xinghaochen/Pose-REN) [\[Note\]](https://github.com/TerenceCYJ/3D-Hand-Pose-Estimation-Papers/blob/master/Notes/Pose%20Guided%20Structured%20Region%20Ensemble%20Network%20for%20Cascaded%20Hand%20Pose.md)
+_Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
+
 ## Conference Papers
 ### 2019 CVPR
+#### Depth-based
+##### Self-supervised 3D hand pose estimation through training by fitting. [\[PDF\]](http://www.vision.ee.ethz.ch/~wanc/papers/cvpr2019.pdf) [\[Code\]](https://github.com/melonwan/sphereHand)
+_Chengde Wan, Thomas Probst, Luc Van Gool and Angela Yao_
+
+##### Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer [\[PDF\]](https://arxiv.org/pdf/1812.02050.pdf)
+_Shile Li, Dongheui Lee_
+
+##### Disentangling Latent Hands for Image Synthesis and Pose Estimation. [\[PDF\]](https://arxiv.org/abs/1812.01002)
+_Linlin Yang, Angela Yao_
+
+#### RGB-based
 ##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[Project Site\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDo3ZjE0ZjY3OWUzYjJkYjA2) *(Oral)*
 _Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan_
 ##### 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](https://arxiv.org/pdf/1902.03451.pdf) [\[Code\]](https://github.com/boukhayma/3dhand) *(Oral)*
@@ -68,7 +85,8 @@ _Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, I
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 ##### Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [\[Project Site\]](https://ps.is.tuebingen.mpg.de/publications/smplex-2019) [\[PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf) [\[Supplemental Material PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/498/SMPL-X-supp.pdf)
 _Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black_
-
+##### H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions. [\[PDF\]](https://arxiv.org/pdf/1904.05349) *(Oral)*
+_Bugra Tekin, Federica Bogo, Marc Pollefeys_
 ### 2018 ECCV
 ##### Point-to-Point Regression PointNet for 3D Hand Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liuhao_Ge_Point-to-Point_Regression_PointNet_ECCV_2018_paper.pdf) [\[Note\]](https://github.com/TerenceCYJ/3D_Pose_Papers/blob/master/Notes/Point-to-Point%20Regression%20PointNet%20for%203D%20Hand%20Pose%20Estimation.md)
 _Liuhao Ge, Zhou Ren, Junsong Yuan_
