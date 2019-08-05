@@ -5,7 +5,7 @@
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
  - [Conference Papers](#conference-papers)
-   - 2019: [CVPR](#2019-cvpr)
+   - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
    - [Before 2016](#before-2016)
@@ -61,6 +61,13 @@ _Xinghao Chen, Guijin Wang, Cairong Zhang, Tae-Kyun Kim, Xiangyang Ji_
 _Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
 
 ## Conference Papers
+### 2019 ICCV
+#### Depth-based
+##### SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning. [\[PDF\]](https://drive.google.com/file/d/1zFBWMIvt4KAIbMKwAGUfLWSOIwU5Oodx/view) 
+_Yujin Chen, Zhigang Tu, Liuhao Ge, Dejun Zhang, Ruizhi Chen, Junsong Yuan_
+##### End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/abs/1902.09305) [\[Code\]](https://github.com/MandyMo/HAMR)
+_Xiong Zhang, Qiang Li, Wenbo Zhang, Wen Zheng_
+
 ### 2019 CVPR
 #### Depth-based
 ##### Self-supervised 3D hand pose estimation through training by fitting. [\[PDF\]](http://www.vision.ee.ethz.ch/~wanc/papers/cvpr2019.pdf) [\[Code\]](https://github.com/melonwan/sphereHand)
