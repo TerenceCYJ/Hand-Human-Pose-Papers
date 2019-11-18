@@ -1,4 +1,4 @@
-# Notes of 3D Hand Pose Estimation
+# Notes of 3D Hand Parsing
 
 ## Table of Contents
  - [Evaluation](#evaluation)
@@ -19,18 +19,9 @@ From work [``Awesome Work on Hand Pose Estimation``](https://github.com/xinghaoc
 See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
-
-
-##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf) 
-_Xiong Zhang, Qiang Li, Wenbo Zhang, Wen Zheng_
-##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) Skeleton Transformer Networks: 3D Human Pose and Skinned Mesh from Single RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf) [\[Code\]](https://github.com/MandyMo/HAMR)
-_Xiong Zhang, Qiang Li, Wenbo Zhang, Wen Zheng_
-
 ##### [\[arXiv:1812.11328\]](https://arxiv.org/abs/1812.11328) Skeleton Transformer Networks: 3D Human Pose and Skinned Mesh from Single RGB Image. [\[PDF\]](https://arxiv.org/pdf/1812.11328.pdf)
 _Yusuke Yoshiyasu, Ryusuke Sagawa, Ko Ayusawa, Akihiko Murai_
 
-##### [\[arXiv:1812.10766\]](https://arxiv.org/abs/1812.10766) SMPLR: Deep SMPL reverse for 3D human pose and shape recovery. [\[PDF\]](https://arxiv.org/pdf/1812.10766.pdf)
-_Meysam Madadi, Hugo Bertiche and Sergio Escalera_
 
 ##### [\[arXiv:1812.10320\]](https://arxiv.org/abs/1812.10320) Structure-Aware 3D Hourglass Network for Hand Pose Estimation from Single Depth Image. [\[PDF\]](https://arxiv.org/pdf/1812.10320.pdf)
 _Fuyang Huang, Ailing Zeng, Minhao Liu, Jing Qin, Qiang Xu_
@@ -62,11 +53,26 @@ _Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
 
 ## Conference Papers
 ### 2019 ICCV
+#### RGB-based
+##### FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape From Single RGB Images.  [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zimmermann_FreiHAND_A_Dataset_for_Markerless_Capture_of_Hand_Pose_and_ICCV_2019_paper.pdf) [\[Supp\]](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Zimmermann_FreiHAND_A_Dataset_ICCV_2019_supplemental.pdf) [\[Code\]](https://github.com/lmb-freiburg/freihand)
+_Christian Zimmermann, Duygu Ceylan, Jimei Yang, Bryan Russell, Max Argus, Thomas Brox_
+
+##### Aligning Latent Spaces for 3D Hand Pose Estimation
+[\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Aligning_Latent_Spaces_for_3D_Hand_Pose_Estimation_ICCV_2019_paper.pdf) [\[Supp\]](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Yang_Aligning_Latent_Spaces_ICCV_2019_supplemental.pdf) 
+_Linlin Yang, Shile Li, Dongheui Lee, Angela Yao_
+
+##### End-to-End Hand Mesh Recovery From a Monocular RGB Image. [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_End-to-End_Hand_Mesh_Recovery_From_a_Monocular_RGB_Image_ICCV_2019_paper.pdf) [\[Supp\]](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Zhang_End-to-End_Hand_Mesh_ICCV_2019_supplemental.pdf) [\[Code\]](https://github.com/Wavelet303/HAMR)
+_Xiong Zhang, Qiang Li, Hong Mo, Wenbo Zhang, Wen Zheng_
+
+##### Contextual Attention for Hand Detection in the Wild.  [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Narasimhaswamy_Contextual_Attention_for_Hand_Detection_in_the_Wild_ICCV_2019_paper.pdf) [\[Project Page\]](https://www3.cs.stonybrook.edu/~cvl/projects/hand_det_attention/)
+_Supreeth Narasimhaswamy, Zhengwei Wei, Yang Wang, Justin Zhang, Minh Hoai_
+
 #### Depth-based
 ##### SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning. [\[PDF\]](https://drive.google.com/file/d/1zFBWMIvt4KAIbMKwAGUfLWSOIwU5Oodx/view) 
 _Yujin Chen, Zhigang Tu, Liuhao Ge, Dejun Zhang, Ruizhi Chen, Junsong Yuan_
-##### End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/abs/1902.09305) [\[Code\]](https://github.com/MandyMo/HAMR)
-_Xiong Zhang, Qiang Li, Wenbo Zhang, Wen Zheng_
+
+##### A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation From a Single Depth Image. [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_A2J_Anchor-to-Joint_Regression_Network_for_3D_Articulated_Pose_Estimation_From_ICCV_2019_paper.pdf) [\[Code\]](https://github.com/zhangboshen/A2J)
+_Fu Xiong, Boshen Zhang, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan_
 
 ### 2019 CVPR
 #### Depth-based
@@ -76,7 +82,7 @@ _Chengde Wan, Thomas Probst, Luc Van Gool and Angela Yao_
 ##### Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer [\[PDF\]](https://arxiv.org/pdf/1812.02050.pdf)
 _Shile Li, Dongheui Lee_
 
-##### Disentangling Latent Hands for Image Synthesis and Pose Estimation. [\[PDF\]](https://arxiv.org/abs/1812.01002)
+##### Disentangling Latent Hands for Image Synthesis and Pose Estimation. [\[PDF\]](https://arxiv.org/abs/1812.01002) 
 _Linlin Yang, Angela Yao_
 
 #### RGB-based
