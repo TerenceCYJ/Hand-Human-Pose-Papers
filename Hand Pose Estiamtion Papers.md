@@ -1,4 +1,4 @@
-# Notes of 3D Hand Parsing
+# Hand Parsing Papers
 
 ## Table of Contents
  - [Evaluation](#evaluation)
@@ -53,7 +53,7 @@ _Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
 
 ## Conference Papers
 ### 2019 ICCV
-#### RGB-based
+
 ##### FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape From Single RGB Images.  [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zimmermann_FreiHAND_A_Dataset_for_Markerless_Capture_of_Hand_Pose_and_ICCV_2019_paper.pdf) [\[Supp\]](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Zimmermann_FreiHAND_A_Dataset_ICCV_2019_supplemental.pdf) [\[Code\]](https://github.com/lmb-freiburg/freihand)
 _Christian Zimmermann, Duygu Ceylan, Jimei Yang, Bryan Russell, Max Argus, Thomas Brox_
 
@@ -67,12 +67,14 @@ _Xiong Zhang, Qiang Li, Hong Mo, Wenbo Zhang, Wen Zheng_
 ##### Contextual Attention for Hand Detection in the Wild.  [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Narasimhaswamy_Contextual_Attention_for_Hand_Detection_in_the_Wild_ICCV_2019_paper.pdf) [\[Project Page\]](https://www3.cs.stonybrook.edu/~cvl/projects/hand_det_attention/)
 _Supreeth Narasimhaswamy, Zhengwei Wei, Yang Wang, Justin Zhang, Minh Hoai_
 
-#### Depth-based
 ##### SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning. [\[PDF\]](https://drive.google.com/file/d/1zFBWMIvt4KAIbMKwAGUfLWSOIwU5Oodx/view) 
 _Yujin Chen, Zhigang Tu, Liuhao Ge, Dejun Zhang, Ruizhi Chen, Junsong Yuan_
 
 ##### A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation From a Single Depth Image. [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_A2J_Anchor-to-Joint_Regression_Network_for_3D_Articulated_Pose_Estimation_From_ICCV_2019_paper.pdf) [\[Code\]](https://github.com/zhangboshen/A2J)
 _Fu Xiong, Boshen Zhang, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan_
+
+##### Talking With Hands 16.2M: A Large-Scale Dataset of Synchronized Body-Finger Motion and Audio for Conversational Motion Analysis and Synthesis. [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Talking_With_Hands_16.2M_A_Large-Scale_Dataset_of_Synchronized_Body-Finger_ICCV_2019_paper.pdf) [\[Supp\]](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Lee_Talking_With_Hands_ICCV_2019_supplemental.pdf)
+_Gilwoo Lee, Zhiwei Deng, Shugao Ma, Takaaki Shiratori, Siddhartha S. Srinivasa, Yaser Sheikh_
 
 ### 2019 CVPR
 #### Depth-based
