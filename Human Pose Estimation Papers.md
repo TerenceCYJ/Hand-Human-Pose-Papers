@@ -102,8 +102,15 @@ _Mingmin Zhao, Yingcheng Liu, Aniruddh Raghu, Tianhong Li, Hang Zhao, Antonio To
 _Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee_
 ##### Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces. [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.pdf) 
 _Felix Kuhnke, Jorn Ostermann_
+##### Predicting 3D Human Dynamics from Video. [\[Project Page\]](https://jasonyzhang.com/phd/) [\[PDF\]](https://arxiv.org/abs/1908.04781) [\[Code\]](https://github.com/jasonyzhang/phd) 
+_Jason Y. Zhang, Panna Felsen, Angjoo Kanazawa, Jitendra Malik_
+##### Three-D Safari: Learning to Estimate Zebra Pose, Shape, and Texture from Images "In the Wild". [\[PDF\]](https://arxiv.org/abs/1908.07201) [\[Supp\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/535/6034_supp.pdf) [\[Code\]](https://github.com/silviazuffi/smalst) 
+_Silvia Zuffi, Angjoo Kanazawa, Tanya Berger-Wolf, Michael J. Black_
 
 ### 2019 CVPR
+##### Slim DensePose: Thrifty Learning from Sparse Annotations and Motion Cues. [\[PDF\]](https://arxiv.org/abs/1906.05706) *(Oral)*
+_Natalia Neverova, James Thewlis, Rıza Alp Güler, Iasonas Kokkinos, Andrea Vedaldi_
+
 ##### Deep High-Resolution Representation Learning for Human Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1902.09212.pdf) [\[Code\]](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 _Ke Sun, Bin Xiao, Dong Liu, [Jingdong Wang](https://jingdongwang2017.github.io/index.html)_
 ##### 3D human pose estimation in video with temporal convolutions and semi-supervised training. [\[Project Cite\]](https://dariopavllo.github.io/VideoPose3D/) [\[PDF\]](https://arxiv.org/pdf/1811.11742.pdf) [\[Code\]](https://github.com/facebookresearch/VideoPose3D)
@@ -146,12 +153,14 @@ _Chenyang Si, Ya Jing, Wei Wang, Liang Wang, Tieniu Tan_
 _Junwu Weng, Mengyuan Liu, Xudong Jiang, Junsong Yuan_
 ##### Learning Human-Object Interactions by Graph Parsing Neural Networks. [\[PDF\]](http://172.16.24.175/openaccess.thecvf.com/content_ECCV_2018/papers/Siyuan_Qi_Learning_Human-Object_Interactions_ECCV_2018_paper.pdf) 
 _Siyuan Qi, Wenguan Wang, Baoxiong Jia, Jianbing Shen, Song-Chun Zhu_
-
+##### Dense Pose Transfer. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Natalia_Neverova_Two_Stream__ECCV_2018_paper.pdf)
+_Natalia Neverova, Riza Alp Guler, Iasonas Kokkinos_
 
 ### 2018 CVPR
 ##### End-to-end Recovery of Human Shape and Pose.  [\[Project Cite\]](https://akanazawa.github.io/hmr/) [\[PDF\]](https://arxiv.org/pdf/1712.06584.pdf) [\[Code\]](https://github.com/akanazawa/hmr)
 _Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik_
-
+##### DensePose: Dense Human Pose Estimation In The Wild. [\[PDF\]](https://arxiv.org/abs/1802.00434) [\[Code\]](https://github.com/facebookresearch/DensePose)
+_Rıza Alp Güler, Natalia Neverova, Iasonas Kokkinos_
 
 ### 2018 Others
 
